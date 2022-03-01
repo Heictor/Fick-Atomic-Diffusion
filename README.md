@@ -2,7 +2,12 @@
 Computational method to assist the study of solid state atomic diffusion in binary systems with unidirectional atomic fluxes.
 The calculations performed using the routine implemented in MATLAB  are used to determine the values related to the Gauss error function, via cubic spline interpolation. The results revealed that the computational tool  is  extremely  necessary  to  assist  professors,  students,  researchers  and  professionals  of  the  Engineering  Sciences,  as  it  makes  the  resolution  more  versatile  with  more  accurate  results,  thus  collaborating in the teaching, learning and research processes. 
 
-This tool was a key component at the study "***Third Order Numerical Interpolation Applied in Engineering Problem Solving via Computer Modeling***". Available from: https://www.researchgate.net/publication/339443349_Third_Order_Numerical_Interpolation_Applied_in_Engineering_Problem_Solving_via_Computer_Modeling.
+
+This tool was a key component at the study "***Third Order Numerical Interpolation Applied in Engineering Problem Solving via Computer Modeling***".<br>
+[![DOI](https://zenodo.org/badge/464933488.svg)](https://zenodo.org/account/settings/github/repository/Heictor/Fick-Atomic-Diffusion)
+[![DOI](https://img.shields.io/badge/RG-Research%20Gate-brightgreen)](https://www.researchgate.net/publication/339443349_Third_Order_Numerical_Interpolation_Applied_in_Engineering_Problem_Solving_via_Computer_Modeling/related)
+[![DOI](https://img.shields.io/badge/CBR19%C2%B0-Conference%20Paper-blue)](http://aprepro.org.br/conbrepro/2019/anais/)
+
 
 ## Examples of the output from the MATLAB routines.
 ### Z in function of ERF
